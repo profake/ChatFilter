@@ -1,7 +1,8 @@
 # ChatFilter
-LUA SAMP Chat Filter for UIF.
+<p>LUA SAMP Chat Filter for UIF.</p>
 <p>This is a lua script that can block certain messages from showing in UIF SAMP Server.</p>
 <p>Messages are still stored in the chatlog.</p>
+
 ### [Pre-requisites]
 1. ASI Loader
 2. Moonloader
