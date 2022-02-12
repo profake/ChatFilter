@@ -9,7 +9,7 @@
 3. SAMPFuncs
 
 ### [Installation]
-Put everything from this repository to your Moonloader folder. 
+Extract the release zip into your Moonloader folder. 
 
 ### [Usage]
 <p>Open the filters.txt file from the folder ChatFilter to add words that will be blocked in-game.</p>
